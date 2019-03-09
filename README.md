@@ -1,5 +1,7 @@
 # Apress Source Code
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pydatawrangler/data-science-fund-for-python-and-mongodb/master)
+
 This repository accompanies [*Data Science Fundamentals for Python and MongoDB*](https://www.apress.com/9781484235966) by David Paper (Apress, 2018).
 
 [comment]: #cover
